@@ -3,4 +3,4 @@
 
 print "I wann u La la"
 print "Test something for the rebase command!"
-print "Another statement"
+print "Another for rebase statement"
